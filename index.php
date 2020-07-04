@@ -145,7 +145,7 @@ include ("inc/header.php");
             <div class="row justify-content-center">
                 <!-- Added text-center to the class because the text is left aligned and not centered -->
                 <h2 class="h1-responsive mb-5 text-center">DELIVERING A SUCCESSFUL FUTURE</h2>
-                <p class="col-10">Skyline's graduates are applying their skills and knowledge in a range of industry leading organisations. Their passion and skill equipped with the robust and solid educational foundation have led them to the top. Many of our students are working are working at the world's most organsiations.</p>
+                <p class="col-10">Skyline's graduates are applying their skills and knowledge in a range of industry leading organisations. Their passion and skill equipped with the robust and solid educational foundation have led them to work at the world's most organsiations.</p>
             </div>
             <div class="row mt-3 mb-5 text-center">
                 <div class="col-md-2 col-sm-3 col-4">
