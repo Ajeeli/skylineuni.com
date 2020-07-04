@@ -1,0 +1,32 @@
+[03-Jan-2020 12:37:06 America/New_York] PHP Notice:  Undefined index: tutor in /home/ajeeqwrz/skylineuni.com/system/tis/php/courses-proc.php on line 3
+[03-Jan-2020 12:37:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ajeeqwrz/skylineuni.com/system/tis/php/courses-proc.php on line 12
+[03-Jan-2020 12:37:06 America/New_York] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ajeeqwrz/skylineuni.com/system/tis/php/courses-proc.php on line 64
+[03-Jan-2020 12:37:12 America/New_York] PHP Notice:  Undefined index: CourseID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 6
+[03-Jan-2020 12:37:12 America/New_York] PHP Notice:  Undefined index: CourseName in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 7
+[03-Jan-2020 12:37:12 America/New_York] PHP Notice:  Undefined index: TutorID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 8
+[03-Jan-2020 12:37:12 America/New_York] PHP Notice:  Undefined variable: lecturePath in /home/ajeeqwrz/skylineuni.com/system/tis/inc/vimeo-player.php on line 27
+[03-Jan-2020 12:37:12 America/New_York] PHP Notice:  Undefined index: CourseID in /home/ajeeqwrz/skylineuni.com/system/tis/inc/vimeo-player.php on line 30
+[03-Jan-2020 12:37:18 America/New_York] PHP Notice:  Undefined variable: lecturePath in /home/ajeeqwrz/skylineuni.com/system/tis/inc/vimeo-player.php on line 27
+[03-Jan-2020 12:37:18 America/New_York] PHP Notice:  Undefined index: CourseID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 6
+[03-Jan-2020 12:37:18 America/New_York] PHP Notice:  Undefined index: CourseName in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 7
+[03-Jan-2020 12:37:18 America/New_York] PHP Notice:  Undefined index: TutorID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 8
+[03-Jan-2020 12:37:18 America/New_York] PHP Notice:  Undefined variable: lecturePath in /home/ajeeqwrz/skylineuni.com/system/tis/inc/vimeo-player.php on line 27
+[03-Jan-2020 12:37:18 America/New_York] PHP Notice:  Undefined index: CourseID in /home/ajeeqwrz/skylineuni.com/system/tis/inc/vimeo-player.php on line 30
+[03-Jan-2020 12:37:18 America/New_York] PHP Notice:  Undefined index: CourseID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 6
+[03-Jan-2020 12:37:18 America/New_York] PHP Notice:  Undefined index: CourseName in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 7
+[03-Jan-2020 12:37:18 America/New_York] PHP Notice:  Undefined index: TutorID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 8
+[03-Jan-2020 12:37:18 America/New_York] PHP Notice:  Undefined variable: lecturePath in /home/ajeeqwrz/skylineuni.com/system/tis/inc/vimeo-player.php on line 27
+[03-Jan-2020 12:37:18 America/New_York] PHP Notice:  Undefined index: CourseID in /home/ajeeqwrz/skylineuni.com/system/tis/inc/vimeo-player.php on line 30
+[03-Jan-2020 12:56:17 America/New_York] PHP Notice:  Undefined variable: lecturePath in /home/ajeeqwrz/skylineuni.com/system/tis/inc/vimeo-player.php on line 27
+[03-Jan-2020 12:56:18 America/New_York] PHP Notice:  Undefined index: CourseID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 6
+[03-Jan-2020 12:56:18 America/New_York] PHP Notice:  Undefined index: CourseName in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 7
+[03-Jan-2020 12:56:18 America/New_York] PHP Notice:  Undefined index: TutorID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 8
+[03-Jan-2020 12:56:18 America/New_York] PHP Notice:  Undefined variable: lecturePath in /home/ajeeqwrz/skylineuni.com/system/tis/inc/vimeo-player.php on line 27
+[03-Jan-2020 12:56:18 America/New_York] PHP Notice:  Undefined index: CourseID in /home/ajeeqwrz/skylineuni.com/system/tis/inc/vimeo-player.php on line 30
+[03-Jan-2020 12:56:18 America/New_York] PHP Notice:  Undefined index: CourseID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 6
+[03-Jan-2020 12:56:18 America/New_York] PHP Notice:  Undefined index: CourseName in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 7
+[03-Jan-2020 12:56:18 America/New_York] PHP Notice:  Undefined index: TutorID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/course-material.php on line 8
+[03-Jan-2020 12:56:18 America/New_York] PHP Notice:  Undefined variable: lecturePath in /home/ajeeqwrz/skylineuni.com/system/tis/inc/vimeo-player.php on line 27
+[03-Jan-2020 12:56:18 America/New_York] PHP Notice:  Undefined index: CourseID in /home/ajeeqwrz/skylineuni.com/system/tis/inc/vimeo-player.php on line 30
+[03-Jan-2020 13:13:28 America/New_York] PHP Notice:  Undefined index: tutor in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/add-material.php on line 41
+[03-Jan-2020 13:13:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ajeeqwrz/skylineuni.com/system/tis/pages/courses/add-material.php on line 50

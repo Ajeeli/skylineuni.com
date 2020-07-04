@@ -1,0 +1,35 @@
+[03-Jan-2020 12:37:56 America/New_York] PHP Notice:  Undefined index: tutor in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/midterm.php on line 7
+[03-Jan-2020 12:37:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/midterm.php on line 48
+[03-Jan-2020 13:14:02 America/New_York] PHP Notice:  Undefined variable: sectionID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/add-exam.php on line 23
+[03-Jan-2020 13:14:02 America/New_York] PHP Notice:  Undefined variable: exam in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/add-exam.php on line 23
+[03-Jan-2020 13:14:02 America/New_York] PHP Notice:  Undefined variable: exam in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/add-exam.php on line 38
+[03-Jan-2020 13:14:02 America/New_York] PHP Notice:  Undefined variable: exam in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/add-exam.php on line 44
+[03-Jan-2020 13:14:02 America/New_York] PHP Notice:  Undefined variable: exam in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/add-exam.php on line 44
+[03-Jan-2020 13:14:02 America/New_York] PHP Notice:  Undefined variable: sectionID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/add-exam.php on line 64
+[03-Jan-2020 13:14:02 America/New_York] PHP Notice:  Undefined variable: exam in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/add-exam.php on line 68
+[03-Jan-2020 13:14:23 America/New_York] PHP Notice:  Undefined index: tutor in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/final.php on line 7
+[03-Jan-2020 13:14:23 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/final.php on line 48
+[03-Jan-2020 13:30:40 America/New_York] PHP Notice:  Undefined variable: exam in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/exam.php on line 24
+[03-Jan-2020 13:30:40 America/New_York] PHP Notice:  Undefined variable: exam in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/exam.php on line 24
+[03-Jan-2020 13:30:40 America/New_York] PHP Notice:  Undefined variable: sectionID in /home/ajeeqwrz/skylineuni.com/system/tis/php/exam-proc.php on line 18
+[03-Jan-2020 13:30:40 America/New_York] PHP Notice:  Undefined variable: exam in /home/ajeeqwrz/skylineuni.com/system/tis/php/exam-proc.php on line 18
+[03-Jan-2020 13:30:40 America/New_York] PHP Notice:  Undefined variable: sectionID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/exam.php on line 88
+[03-Jan-2020 13:30:40 America/New_York] PHP Notice:  Undefined variable: exam in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/exam.php on line 89
+[03-Jan-2020 13:30:40 America/New_York] PHP Notice:  Undefined index: tutor in /home/ajeeqwrz/skylineuni.com/system/tis/php/result-count.php on line 58
+[03-Jan-2020 13:30:40 America/New_York] PHP Notice:  Undefined variable: sectionID in /home/ajeeqwrz/skylineuni.com/system/tis/php/result-count.php on line 67
+[03-Jan-2020 13:30:40 America/New_York] PHP Notice:  Undefined variable: exam in /home/ajeeqwrz/skylineuni.com/system/tis/php/result-count.php on line 67
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: questionID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 23
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 26
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: exam in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 51
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: exam in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 51
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: questionID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 69
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: sectionID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 72
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: exam in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 76
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: questionType in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 83
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: questionType in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 92
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: questionType in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 101
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: questionType in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 110
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: questionType in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 134
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: questionType in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 185
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: MW in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 258
+[03-Jan-2020 13:30:52 America/New_York] PHP Notice:  Undefined variable: NUM in /home/ajeeqwrz/skylineuni.com/system/tis/pages/exams/edit-exam.php on line 283

@@ -1,0 +1,12 @@
+[03-Jan-2020 12:38:31 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/enrollment-proc.php on line 110
+[03-Jan-2020 12:38:31 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/enrollment-proc.php on line 110
+[03-Jan-2020 12:38:42 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/schedule-proc.php on line 90
+[03-Jan-2020 12:38:42 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/schedule-proc.php on line 90
+[03-Jan-2020 12:38:55 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/grades-proc.php on line 60
+[03-Jan-2020 12:38:55 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/grades-proc.php on line 60
+[04-Jan-2020 11:41:48 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/enrollment-proc.php on line 110
+[04-Jan-2020 11:41:48 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/enrollment-proc.php on line 110
+[04-Jan-2020 11:41:49 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/schedule-proc.php on line 90
+[04-Jan-2020 11:41:49 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/schedule-proc.php on line 90
+[04-Jan-2020 11:41:50 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/grades-proc.php on line 60
+[04-Jan-2020 11:41:50 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/grades-proc.php on line 60

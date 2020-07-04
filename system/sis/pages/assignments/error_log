@@ -1,0 +1,5 @@
+[03-Jan-2020 12:38:56 America/New_York] PHP Notice:  Undefined index: student in /home/ajeeqwrz/skylineuni.com/system/sis/pages/assignments/assignment1.php on line 6
+[03-Jan-2020 12:38:56 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ajeeqwrz/skylineuni.com/system/sis/pages/assignments/assignment1.php on line 40
+[03-Jan-2020 13:20:35 America/New_York] PHP Notice:  Undefined index: student in /home/ajeeqwrz/skylineuni.com/system/sis/pages/assignments/add-solution.php on line 7
+[03-Jan-2020 13:20:35 America/New_York] PHP Notice:  Undefined index: sectionID in /home/ajeeqwrz/skylineuni.com/system/sis/pages/assignments/add-solution.php on line 8
+[03-Jan-2020 13:20:35 America/New_York] PHP Notice:  Undefined index: assignmentID in /home/ajeeqwrz/skylineuni.com/system/sis/pages/assignments/add-solution.php on line 9

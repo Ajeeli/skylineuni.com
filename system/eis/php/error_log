@@ -1,0 +1,16 @@
+[03-Jan-2020 11:50:37 America/New_York] PHP Notice:  Undefined index: uploadImage in /home/ajeeqwrz/skylineuni.com/system/eis/php/editing-form.php on line 321
+[03-Jan-2020 11:50:37 America/New_York] PHP Notice:  Undefined index: uploadImage in /home/ajeeqwrz/skylineuni.com/system/eis/php/editing-form.php on line 331
+[03-Jan-2020 11:50:37 America/New_York] PHP Notice:  Undefined index: uploadImage in /home/ajeeqwrz/skylineuni.com/system/eis/php/editing-form.php on line 338
+[03-Jan-2020 11:50:37 America/New_York] PHP Notice:  Undefined index: imageName in /home/ajeeqwrz/skylineuni.com/system/eis/php/editing-form.php on line 352
+[03-Jan-2020 11:50:37 America/New_York] PHP Notice:  Undefined variable: sql in /home/ajeeqwrz/skylineuni.com/system/eis/php/editing-form.php on line 386
+[03-Jan-2020 11:50:37 America/New_York] PHP Warning:  mysqli::query(): Empty query in /home/ajeeqwrz/skylineuni.com/system/eis/php/editing-form.php on line 386
+[03-Jan-2020 11:50:37 America/New_York] PHP Notice:  Undefined variable: sql in /home/ajeeqwrz/skylineuni.com/system/eis/php/editing-form.php on line 389
+[03-Jan-2020 11:55:29 America/New_York] PHP Notice:  Undefined index: uploadImage in /home/ajeeqwrz/skylineuni.com/system/eis/php/adding-form.php on line 272
+[03-Jan-2020 11:55:29 America/New_York] PHP Notice:  Undefined index: uploadImage in /home/ajeeqwrz/skylineuni.com/system/eis/php/adding-form.php on line 282
+[03-Jan-2020 11:55:29 America/New_York] PHP Notice:  Undefined index: uploadImage in /home/ajeeqwrz/skylineuni.com/system/eis/php/adding-form.php on line 289
+[03-Jan-2020 11:55:29 America/New_York] PHP Notice:  Undefined variable: sql in /home/ajeeqwrz/skylineuni.com/system/eis/php/adding-form.php on line 328
+[03-Jan-2020 11:55:29 America/New_York] PHP Warning:  mysqli::query(): Empty query in /home/ajeeqwrz/skylineuni.com/system/eis/php/adding-form.php on line 328
+[03-Jan-2020 11:55:29 America/New_York] PHP Notice:  Undefined variable: sql in /home/ajeeqwrz/skylineuni.com/system/eis/php/adding-form.php on line 331
+[03-Jan-2020 22:00:39 America/New_York] PHP Notice:  Undefined variable: table in /home/ajeeqwrz/skylineuni.com/system/eis/php/deleteRecord.php on line 16
+[03-Jan-2020 22:00:39 America/New_York] PHP Notice:  Undefined variable: key in /home/ajeeqwrz/skylineuni.com/system/eis/php/deleteRecord.php on line 16
+[03-Jan-2020 22:00:39 America/New_York] PHP Notice:  Undefined variable: id in /home/ajeeqwrz/skylineuni.com/system/eis/php/deleteRecord.php on line 16

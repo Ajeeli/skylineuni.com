@@ -1,0 +1,32 @@
+1- no need to add total credits for a program manually, every time you add a course to the program, the total credits increments, decrements if course deleted (code should be changed in both add course and edit course)
+2- implement the password confirmation process for student/tutor/executive.
+4- check why you cant log in as student and executive at the same time using multiple tabs or browsers.
+5- find a way to change online user status from 1 to 0 if the user closed the browser tab or browser window rather than loggin out using the log out button or lof out icon.
+6- (Solved by adding hidden input that stores image name from db, had to store it in hidden text input rather than give file input type the value stores in db, because value stored in db is text, and texy cannot be store in html file input) include image path from database when editing records in system, currently updating a record from SYS, will replace the existing img with no-img.png
+7- add confirmation message mechanism before deleting records.
+8- When tutor marks all students final grade, the section_state auomatically changes from open to closed
+10 - subtract payed amount from student payment_dept when he pays
+11- when adding a tutor for a course, edit sql query to check that the tutor is from the same college as the course
+12- check what happens when 2 students upload images that have the same file name
+
+
+Notes to add in documentation:
+
+mention: i changed the structure of the website, making each information system an independet sub system fully functional on its own, before this change, other sub systems like sis and tis were dependent on some eis files
+mention how the forms are error free and no need for error displays, because everything entered is controlled with the use of min and max and maxlength, as well as setting input type
+
+
+Problems encountered (mention in documentation)
+1- could not update course when changing prerequisite to null because there was a restriction on prerequsite, when updated "No Action" restriction was chosen, had to change it to set null
+need to find a way to update prerequisite from some course id to null, this problem should be mentioned in documentation along with the found solution or abscense of solution
+Q: how to set foreign key to null in a recursion function (if the foreign key references the same table primary key, 'you cannot set the primary key to accept null values')
+A: One Solution is to add a course with primary key (null000) for example and setting the course name to (no prerequisite) and using this record for all courses that reference it as a no prerequisite course
+(Solved)
+while i had to resort to programatic methods to solve the issue properly without adding any unnecessary records in the database, i had two options, either use branch sql statemetns where i point out variables with null values, or in my case, using boolean statements withing the sql statements as such prerequisite = " . ($Prerequisite==NULL ? "NULL" : "'$Prerequisite'") . " which was used in the course updating process
+this solution is only required when editing foreign key, integer, and date data types, and setting them from a previious value to null
+
+big problem (2 and 3 solved)
+2- how to check if student has completed prerequisite course when enrolling in a course that has that prerequisite
+3- how to not show sections for students when enrolling in courses that have already been taken and has been passed with good grade (grade > 70 or grade > D)
+had to write code all over again and refactorize sql query statement, problem solved adding !EXISTS sql command along side INNER JOINS
+

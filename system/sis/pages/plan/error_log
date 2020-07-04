@@ -1,0 +1,12 @@
+[03-Jan-2020 12:39:04 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/program-plan-proc.php on line 63
+[03-Jan-2020 12:39:04 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/program-plan-proc.php on line 63
+[04-Jan-2020 11:41:41 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/program-plan-proc.php on line 63
+[04-Jan-2020 11:41:41 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/program-plan-proc.php on line 63
+[04-Jan-2020 11:41:43 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/program-plan-proc.php on line 63
+[04-Jan-2020 11:41:43 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/program-plan-proc.php on line 63
+[04-Jan-2020 11:41:46 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/program-plan-proc.php on line 63
+[04-Jan-2020 11:41:46 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/program-plan-proc.php on line 63
+[04-Jan-2020 11:41:46 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/program-plan-proc.php on line 63
+[04-Jan-2020 11:41:46 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/program-plan-proc.php on line 63
+[04-Jan-2020 11:41:46 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/program-plan-proc.php on line 63
+[04-Jan-2020 11:41:46 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/program-plan-proc.php on line 63

@@ -1,0 +1,100 @@
+/*******   General CSS   *******/
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;    
+}
+body.login-body {
+  height: 100%;
+}
+a {
+    transition: color 0.3s;
+}
+a:hover, a:focus {
+    text-decoration: none;
+    color: blue;
+}
+
+/*******   SIS Login CSS   *******/
+
+/***   Login Form   ***/
+body.login-body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: url("login-bg-blur.jpg") no-repeat center;
+  background-size: 100% 200%;
+}
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.white-text {
+    color: #fff;
+    text-shadow: 1px 1px 3px black, 1px 1px 3px black;
+}
+.white-text a:hover, .white-text a:focus {
+    color: #fff;
+}
+.silver-text, .white-text a {
+    color: silver;
+    text-shadow: 1px 1px 3px black, 1px 1px 3px black;
+}
+.loginMsg {
+    display: none;
+}
+.loginErrorMsg {
+    color: red;
+    display: block;
+    letter-spacing: 2px;
+    box-shadow: inset 15px 15px 10px 10px rgba(255,255,255, 0.7);
+    border-radius: 3px;
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+}
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+.footer-text {
+    opacity: 0.7;
+    text-align: center;
+    font-size: 100%;
+    padding: 25px 5px 5px;
+}
+@media(max-width: 850px){
+    .footer-text {
+        font-size: 75%;
+    }
+}

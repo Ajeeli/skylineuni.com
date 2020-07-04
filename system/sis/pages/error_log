@@ -1,0 +1,8 @@
+[03-Jan-2020 12:38:25 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/dashboard-schedule-proc.php on line 54
+[03-Jan-2020 12:38:25 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/dashboard-schedule-proc.php on line 54
+[03-Jan-2020 12:39:40 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/e-pay-proc.php on line 82
+[03-Jan-2020 12:39:40 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/e-pay-proc.php on line 82
+[03-Jan-2020 12:40:29 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/enrollment-info-proc.php on line 116
+[03-Jan-2020 12:40:29 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/enrollment-info-proc.php on line 116
+[06-Feb-2020 02:16:27 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/dashboard-schedule-proc.php on line 54
+[06-Feb-2020 02:16:27 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/dashboard-schedule-proc.php on line 54

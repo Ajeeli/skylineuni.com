@@ -1,0 +1,17 @@
+[03-Jan-2020 13:01:58 America/New_York] PHP Notice:  Undefined index: tutor in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/assignment1.php on line 7
+[03-Jan-2020 13:01:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/assignment1.php on line 49
+[03-Jan-2020 13:02:06 America/New_York] PHP Notice:  Undefined index: tutor in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/addAssignment1.php on line 7
+[03-Jan-2020 13:02:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/addAssignment1.php on line 49
+[03-Jan-2020 13:05:32 America/New_York] PHP Notice:  Undefined index: tutor in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/addAssignment2.php on line 7
+[03-Jan-2020 13:05:32 America/New_York] PHP Notice:  Undefined index: sectionID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/addAssignment2.php on line 8
+[03-Jan-2020 13:08:34 America/New_York] PHP Notice:  Undefined index: tutor in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/editAssignment.php on line 8
+[03-Jan-2020 13:08:34 America/New_York] PHP Notice:  Undefined index: sectionID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/editAssignment.php on line 9
+[03-Jan-2020 13:08:34 America/New_York] PHP Notice:  Undefined index: assignmentID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/editAssignment.php on line 10
+[03-Jan-2020 13:08:34 America/New_York] PHP Notice:  Undefined variable: startDate in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/editAssignment.php on line 74
+[03-Jan-2020 13:08:34 America/New_York] PHP Notice:  Undefined variable: deadline in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/editAssignment.php on line 78
+[03-Jan-2020 13:08:34 America/New_York] PHP Notice:  Undefined variable: description in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/editAssignment.php on line 84
+[03-Jan-2020 13:08:34 America/New_York] PHP Notice:  Undefined variable: file in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/editAssignment.php on line 90
+[03-Jan-2020 13:19:47 America/New_York] PHP Notice:  Undefined index: tutor in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/assignment-submission.php on line 8
+[03-Jan-2020 13:19:47 America/New_York] PHP Notice:  Undefined index: sectionID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/assignment-submission.php on line 40
+[03-Jan-2020 13:19:47 America/New_York] PHP Notice:  Undefined index: assignmentID in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/assignment-submission.php on line 41
+[03-Jan-2020 13:19:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/ajeeqwrz/skylineuni.com/system/tis/pages/assignments/assignment-submission.php on line 94

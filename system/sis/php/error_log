@@ -1,0 +1,10 @@
+[03-Jan-2020 12:39:46 America/New_York] PHP Notice:  Undefined variable: amount in /home/ajeeqwrz/skylineuni.com/system/sis/php/e-pay-proc-final.php on line 49
+[03-Jan-2020 12:39:46 America/New_York] PHP Notice:  Undefined variable: amount in /home/ajeeqwrz/skylineuni.com/system/sis/php/e-pay-proc-final.php on line 77
+[03-Jan-2020 12:39:46 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/sis/php/e-pay-proc-final.php on line 103
+[03-Jan-2020 12:39:46 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/sis/php/e-pay-proc-final.php on line 103
+[03-Jan-2020 12:40:21 America/New_York] PHP Notice:  Undefined variable: newDept in /home/ajeeqwrz/skylineuni.com/system/sis/php/e-pay-proc-final2.php on line 24
+[03-Jan-2020 12:40:21 America/New_York] PHP Notice:  Undefined variable: stdID in /home/ajeeqwrz/skylineuni.com/system/sis/php/e-pay-proc-final2.php on line 24
+[03-Jan-2020 13:20:59 America/New_York] PHP Notice:  Undefined index: student in /home/ajeeqwrz/skylineuni.com/system/sis/php/add-solution-proc.php on line 5
+[03-Jan-2020 13:20:59 America/New_York] PHP Notice:  Undefined index: uploadFile in /home/ajeeqwrz/skylineuni.com/system/sis/php/add-solution-proc.php on line 24
+[03-Jan-2020 13:20:59 America/New_York] PHP Notice:  Undefined index: uploadFile in /home/ajeeqwrz/skylineuni.com/system/sis/php/add-solution-proc.php on line 27
+[03-Jan-2020 13:20:59 America/New_York] PHP Notice:  Undefined index: uploadFile in /home/ajeeqwrz/skylineuni.com/system/sis/php/add-solution-proc.php on line 34

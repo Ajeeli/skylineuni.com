@@ -1,0 +1,2 @@
+[03-Jan-2020 12:36:58 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/tis/php/user-image.php on line 30
+[03-Jan-2020 12:36:58 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/tis/php/user-image.php on line 30

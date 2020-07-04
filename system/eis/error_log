@@ -1,0 +1,8 @@
+[03-Jan-2020 11:48:53 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/eis/php/user-image.php on line 29
+[03-Jan-2020 11:48:53 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/eis/php/user-image.php on line 29
+[03-Jan-2020 11:57:25 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/eis/php/user-image.php on line 29
+[03-Jan-2020 11:57:25 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/eis/php/user-image.php on line 29
+[03-Jan-2020 22:15:16 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/eis/php/user-image.php on line 29
+[03-Jan-2020 22:15:16 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/eis/php/user-image.php on line 29
+[04-Jan-2020 00:08:58 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ajeeqwrz/skylineuni.com/system/eis/php/user-image.php on line 29
+[04-Jan-2020 00:08:58 America/New_York] PHP Fatal error:  Call to a member function close() on null in /home/ajeeqwrz/skylineuni.com/system/eis/php/user-image.php on line 29

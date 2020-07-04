@@ -1,0 +1,23 @@
+.examWindow {
+    margin: 0;
+    padding: 5em;
+    background-color: rgb(200, 200, 200);
+    width: 100vw;
+    height: 100vh;
+}
+.examBodyHeader {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: rgb(225, 225, 225);
+}
+.examBody {
+    position: relative;
+    border: 3px ridge navy;
+    border-radius: 25px;
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+}
+.sis-orange-text {
+    color: red;
+}
