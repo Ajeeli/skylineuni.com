@@ -89,29 +89,29 @@
                                         <h5 class="mega-menu-text">Degree Levels</h5>
                                     </a>
                                     <a class="dropdown-item megamenu-links" href="/pages/programs/all_programs.php">Bachelors</a>
-                                    <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">Masters Degrees</a>
-                                    <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">PhD Degrees</a>
-                                    <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">Diplomas</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">Masters Degrees</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">PhD Degrees</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">Diplomas</a>
                                 </div>
                                 <div class="col-sm-6 col-lg-3">
-                                    <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">
+                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">
                                         <h5 class="mega-menu-text">Certificates</h5>
                                     </a>
-                                    <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">Skyline Certificates</a>
-                                    <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">Associate Certificates</a>
-                                    <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">International Certificates</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">Skyline Certificates</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">Associate Certificates</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">International Certificates</a>
                                 </div>
                                 <div class="col-sm-6 col-lg-3">
-                                    <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">
+                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">
                                         <h5 class="mega-menu-text">Courses</h5>
                                     </a>
-                                    <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">Leadership Courses</a>
-                                    <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">Self Development Courses</a>
-                                    <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">NLP Courses</a>
-                                    <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">Language Courses</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">Leadership Courses</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">Self Development Courses</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">NLP Courses</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">Language Courses</a>
                                 </div>
                             </div>
-                            <a class="btn col-2" type="button" style="background: rgba(180, 40, 180, 0.7); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
+                            <a class="btn col-2" type="button" style="background: rgba(0,1,154,0.5); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
                         </div>
                     </li>
                     <li class="nav-item dropdown megamenu-li">
@@ -144,7 +144,7 @@
                                     <a class="dropdown-item megamenu-links" href="/pages/student/fees.php">Fees &amp; Funding </a>
                                 </div>
                             </div>
-                            <a class="btn col-2" type="button" style="background: rgba(180, 40, 180, 0.7); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
+                            <a class="btn col-2" type="button" style="background: rgba(0,1,154,0.5); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
                         </div>
                     </li>
 
@@ -177,7 +177,7 @@
                                     <a class="dropdown-item megamenu-links" href="/pages/support/international_network_linking.php">International Network Linking</a>
                                 </div>
                             </div>
-                            <a class="btn col-2" type="button" style="background: rgba(180, 40, 180, 0.7); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
+                            <a class="btn col-2" type="button" style="background: rgba(0,1,154,0.5); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
                         </div>
                     </li>
                     <li class="nav-item dropdown megamenu-li">
@@ -219,7 +219,7 @@
                                     <a class="dropdown-item megamenu-links" href="/pages/about/international_recognition.php">International Recognition</a>
                                 </div>
                             </div>
-                            <a class="btn col-2" type="button" style="background: rgba(180, 40, 180, 0.7); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
+                            <a class="btn col-2" type="button" style="background: rgba(0,1,154,0.5); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
                         </div>
                     </li>
                 </ul>

@@ -1,5 +1,5 @@
 <!-- Footer -->
-<footer class="font-small themeFGNoH">
+<footer class="font-small text-white">
 
     <div class="footer-social">
         <div class="container">
@@ -125,7 +125,7 @@
             <!-- Grid row-->
             <div class="row py-5 text-center">
                 <!-- Copyright -->
-                <div class="col-lg-7 col-12 text-lg-left order-lg-1 order-12">© <?php echo date('Y'); ?> Copyright: Skyline University, powered by
+                <div class="col-lg-7 col-12 text-lg-left order-lg-1 order-12">&copy; <?php echo date('Y'); ?> Copyright: Skyline University, powered by
                     <a href="https://www.skytechbh.com" class="footer-sky" target="_blank"> Skyline Technologies</a>
                 </div>
                 <!-- Copyright -->
