@@ -1,30 +1,6 @@
 <?php
 
 $title = "HOME";
-// hrefs
-// root
-$homeLink = "localhost";
-
-// root/pages/
-$pagesLink = "pages/";
-
-// root/files/
-$filesLink = "files/";
-
-// root/css/
-$cssLink = "css/";
-
-// root/img/
-$imgLink = "img/";
-
-// root/js/
-$jsLink = "js/";
-
-// root/php/
-$phpLink = "php/";
-
-// root/system/
-$systemLink = "system/";
 
 // includes
 include ("inc/header.php");
@@ -334,7 +310,7 @@ include ("inc/header.php");
                 <hr class="my-4 white-hr">
                 <p class="lead pt-5">
                     <!-- Replaced col-2 with col-lg-2 and col-12, so it would take a full row size on mobile devices but only a col-2 size on laptops and above -->
-                    <a id="rounded-outlined-button" class="btn btn-lg col-lg-2 col-12" href="<?php echo $pagesLink . '/apply.php'; ?>" role="button">Become a Student</a>
+                    <a id="rounded-outlined-button" class="btn btn-lg col-lg-2 col-12" href="/pages/apply.php" role="button">Become a Student</a>
                 </p>
             </div>
         </div>
@@ -394,7 +370,7 @@ include ("inc/header.php");
                         </div>
                         <?php 
                                     if ($send == 3) {
-                                        echo "<p class = 'brochureSent mt-5 py-3 bg-info text-white text-center rounded mx-auto' style='font-size: 24px; box-shadow: 10px 10px 15px grey;'><i class='fas fa-check-circle p-1 mx-2' style='color:white; font-size:24px;'></i>Brochure successfuly sent to $email.</p>";
+                                        echo "<p class = 'brochureSent col-9 mt-5 py-2 bg-info text-white text-center rounded mx-auto' style='font-size: 18px; box-shadow: 10px 10px 10px grey;'><i class='fas fa-check-circle p-1 mx-2' style='color:white; font-size:18px;'></i>Brochure successfuly sent to $email.</p>";
                                     }
                                 ?>
                         <!--Grid row-->
