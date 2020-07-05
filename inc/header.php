@@ -74,12 +74,12 @@
                             <div class="row">
                                 <div class="col-sm-6 col-lg-3">
                                     <a class="dropdown-item megamenu-links" href="/pages/programs/all_programs.php">
-                                        <h5 class="mega-menu-text">All Fields</h5>
+                                        <h5 class="mega-menu-text">Colleges</h5>
                                     </a>
-                                    <a class="dropdown-item megamenu-links" href="/pages/programs/arts_and_humanities.php">Arts</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/programs/arts.php">Arts</a>
                                     <a class="dropdown-item megamenu-links" href="/pages/programs/business_administration.php">Business Administration </a>
-                                    <a class="dropdown-item megamenu-links" href="/pages/programs/computer_science_and_it.php">Information Technology</a>
-                                    <a class="dropdown-item megamenu-links" href="/pages/programs/engineering_and_science.php">Engineering</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/programs/information_technology.php">Information Technology</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/programs/engineering.php">Engineering</a>
                                     <a class="dropdown-item megamenu-links" href="/pages/programs/law.php">Law</a>
                                     <a class="dropdown-item megamenu-links" href="/pages/programs/sciences.php">Sciences</a>
 
@@ -109,9 +109,9 @@
                                     <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">Self Development Courses</a>
                                     <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">NLP Courses</a>
                                     <a class="dropdown-item megamenu-links" href="/comingsoon/index.html">Language Courses</a>
-                                    <a class="btn btn-primary mt-4" type="button" role="button" href="/pages/apply.php"> APPLY </a>
                                 </div>
                             </div>
+                            <a class="btn col-2" type="button" style="background: rgba(180, 40, 180, 0.7); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
                         </div>
                     </li>
                     <li class="nav-item dropdown megamenu-li">
@@ -142,13 +142,12 @@
                                     <a class="dropdown-item megamenu-links" href="/pages/apply.php">Online Application</a>
                                     <a class="dropdown-item megamenu-links" href="/pages/student/approval.php">Approval Process</a>
                                     <a class="dropdown-item megamenu-links" href="/pages/student/fees.php">Fees &amp; Funding </a>
-                                    <a class="btn btn-primary mt-3" type="button" role="button" href="/pages/apply.php"> APPLY </a>
-
                                 </div>
-
                             </div>
+                            <a class="btn col-2" type="button" style="background: rgba(180, 40, 180, 0.7); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
                         </div>
                     </li>
+
                     <li class="nav-item dropdown megamenu-li">
                         <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Support Center</a>
                         <div class="dropdown-menu megamenu" aria-labelledby="dropdown02">
@@ -176,9 +175,9 @@
                                     <a class="dropdown-item megamenu-links" href="/pages/support/jobs.php">Jobs At Skyline</a>
                                     <a class="dropdown-item megamenu-links" href="/pages/support/graduates_support.php">Graduate Support</a>
                                     <a class="dropdown-item megamenu-links" href="/pages/support/international_network_linking.php">International Network Linking</a>
-                                    <a class="btn btn-primary mt-3" type="button" role="button" href="/pages/apply.php"> APPLY </a>
                                 </div>
                             </div>
+                            <a class="btn col-2" type="button" style="background: rgba(180, 40, 180, 0.7); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
                         </div>
                     </li>
                     <li class="nav-item dropdown megamenu-li">
@@ -216,11 +215,11 @@
                                     <a class="dropdown-item megamenu-links" href="/pages/about/faq.php">
                                         <h5 class="mega-menu-text">FAQs</h5>
                                     </a>
-                                    <a class="dropdown-item megamenu-links" href="/pages/about/join_the_community.ph>">Join The Community</a>
+                                    <a class="dropdown-item megamenu-links" href="/pages/about/join_the_community.php">Join The Community</a>
                                     <a class="dropdown-item megamenu-links" href="/pages/about/international_recognition.php">International Recognition</a>
-                                    <a class="btn btn-primary mt-3" type="button" role="button" href="/pages/apply.php"> APPLY </a>
                                 </div>
                             </div>
+                            <a class="btn col-2" type="button" style="background: rgba(180, 40, 180, 0.7); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
                         </div>
                     </li>
                 </ul>

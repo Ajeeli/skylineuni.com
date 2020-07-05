@@ -1,5 +1,5 @@
 <?php
-$title = "TOURISM";
+$title = "ENGINEERING";
 include ($_SERVER['DOCUMENT_ROOT'] . "/inc/header.php");
 include ($_SERVER['DOCUMENT_ROOT'] . '/db_connection.php');
 
@@ -10,16 +10,27 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/db_connection.php');
         <div class = "container my-5 py-3">
             <div class = "row">
                 <!-- Side-Bar Menu -->
-                <div class = "col-3 pt-5 side-bar-menu">
+                <div class = "col-md-3 col-12 pt-5 side-bar-menu">
                     <nav>
-                        <ul>
-                            <a href = "arts_and_humanities.php"><li>Arts &amp; Humanities</li></a>
-                            <a href = "business_administration.php"><li>Business Administration</li></a>
-                            <a href = "computer_science_and_it.php"><li>Computer Science &amp; IT</li></a>
-                            <a href = "engineering_and_science.php"><li>Engineering &amp; Science</li></a>
-                            <a href = "health_sciences.php"><li>Health Sciences</li></a>
-                            <a href = "law.php"><li>Law</li></a>
-                            <a href = "tourism.php"><li class = "activeLink">Tourism</li></a>
+                    <ul>
+                            <a href="arts.php">
+                                <li>Arts</li>
+                            </a>
+                            <a href="business_administration.php">
+                                <li>Business Administration</li>
+                            </a>
+                            <a href="information_technology.php">
+                                <li>Information Technology</li>
+                            </a>
+                            <a href="engineering.php">
+                                <li  class="activeLink">Engineering</li>
+                            </a>
+                            <a href="law.php">
+                                <li>Law</li>
+                            </a>
+                            <a href="sciences.php">
+                                <li>Sciences</li>
+                            </a>
                         </ul>
                     </nav>
                 </div>
@@ -27,15 +38,15 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/db_connection.php');
                 
                 <div class = "col-md-8 mx-md-auto col-12 justify-content text-justify">
                     <!-- Section heading -->
-                    <h2 class="h1-responsive about-section-headers-black">Tourism</h2>
+                    <h2 class="h1-responsive about-section-headers-black">Engineering</h2>
                     <hr class = "my-4">
                     <!-- Section description -->
-                    <p class = "main-text">Travel and tourism now a days is a global industry and there are a wide range of opportunities available to tourism graduates.</p>
-                    <p class = "main-text">Although many of us have been "<b>tourists</b>" at some point in our lives, defining what <b>tourism</b> actually is can be difficult. <b>Tourism</b> is the activities of people traveling to and staying in places outside their usual environment for leisure, business or other purposes for not more than a specific period.</p>
-                    <p class = "main-text"><b>Tourism Studies</b> treats its study and <b>research</b> area as a whole, where physical, economic, social and cultural aspects of <b>tourism</b>, <b>tourist</b> markets, and destinations are the main corner-stones of learning.</p>
+                    <p class = "main-text">Engineering is the discipline dealing with the art or science of applying scientific knowledge to practical problems.</p>
+                    <p class = "main-text">Our world is full of technical problems and our world needs you to solve it.</p>
+                    <p class = "main-text">Join our programs and be one of those who will solve some of the problems. The world needs you now and will need you in the future.</p>
                     <!-- Section image -->
-                    <img src = "/img/tourism.jpg" class = "collegeImg my-3">
-                    <p class = "main-text pb-5">Below are all the <b>tourism</b> programs available at Skyline Technologies.</p>
+                    <img src = "/img/engineering&science.jpg" class = "collegeImg my-3">
+                    <p class = "main-text pb-5">A list of our programs is below, its time you choose one and start learning with us.</p>
 
                             <div class="card">
                                 <div class="card-header">
@@ -52,13 +63,13 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/db_connection.php');
                                         if ($result->num_rows > 0) {
                                             // output data of each row
                                             while($row = $result->fetch_assoc()) {
-                                                $collegeID = $row['college_id'];
+                                                $collegID = $row['college_id'];
                                             }
                                         }
                                         ?>
                                         <!-- Get Program name -->
-                                        <?php
-                                        $sql2 = "SELECT program_id, program_name FROM program WHERE college_id = $collegeID";
+                                        <?php 
+                                        $sql2 = "SELECT program_id, program_name FROM program WHERE college_id = $collegID";
 
                                         $result2 = $mysqli->query($sql2);
 

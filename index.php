@@ -30,11 +30,6 @@ $systemLink = "system/";
 include ("inc/header.php");
 ?>
 
-<!-- Contact form code -->
-<?php 
-    include("inc/contact_form_email.php");
-?>
-
 <main>
 
     <section class="py-4 bg-light">
@@ -81,7 +76,7 @@ include ("inc/header.php");
                     <img src="img/tuition_free_study.jpg" class="img-fluid">
                     <div class="px-4 py-3">
                         <h4 class="text-uppercase my-3" style="background: rgba(0, 0 , 0, 0.1)">Tuition Free study</h4>
-                        <p>We believe in free education for everyone. Our internationally accredited programs are on par with the most reputed universities around the globe to serve those who have been less fortunate.</p>
+                        <p>We believe in free education for everyone. Our internationally accredited programs are on par with the highest-ranking universities around the globe to serve those who have been less fortunate.</p>
                     </div>
                 </div>
 
@@ -108,7 +103,7 @@ include ("inc/header.php");
                     <div class="px-4 py-3">
 
                         <h4 class="text-uppercase my-3" style="background: rgba(0, 0 , 0, 0.1)">Support and Guidance</h4>
-                        <p> A dedicated support team support available 24 hours, 7 days a week, ready to help with student request such as path guidance, study-related matter an even funding for financially challenged students.
+                        <p> A dedicated support team support available 24 hours, 7 days a week, ready to help with student requests such as path guidance, study-related matter an even funding for financially challenged students.
                     </div>
 
                 </div>
@@ -127,7 +122,7 @@ include ("inc/header.php");
                 <h1 class="display-4" style="font-family= truenoblack;">OUR PROGRAMS</h1><br>
                 <hr class="mb-4 white-hr">
                 <p class="lead">Dive into the depth of specialized courses that are up to date with the latest technologies.</p>
-                <p class="lead">Have a look at our acreditted world-wide recognised programs.</p>
+                <p class="lead">Have a look at our internationally accreditted programs.</p>
             </div>
         </div>
         <div class="d-flex flex-row justify-content-center mt-5">
@@ -207,8 +202,8 @@ include ("inc/header.php");
     <!-- Counter Banner -->
     <div class="counter-banner text-center my-5">
         <div class="container-fluid counter">
-            <div class="row justify-content-center"> 
-            <!-- Replaced Offset-2 in bottom with justify-content-center in above to center the columns and fix responsiveness -->
+            <div class="row justify-content-center">
+                <!-- Replaced Offset-2 in bottom with justify-content-center in above to center the columns and fix responsiveness -->
                 <div class="col-md-2 col-12 counter-icons pt-md-0 pt-2">
                     <div class="employees">
                         <i class="fas fa-graduation-cap"></i>
@@ -347,6 +342,11 @@ include ("inc/header.php");
     <!-- Student Map Section -->
 
     <!-- Request Brochure Section -->
+    <!-- Contact form code -->
+    <?php 
+        include("inc/contact_form_email.php");
+    ?>
+
     <section class="sections" id="brochure">
         <div class="container py-5">
             <h2 class="h1-responsive about-section-headers-black text-center pb-5">We Will Help You Achieve Your Goals</h2>
@@ -389,13 +389,14 @@ include ("inc/header.php");
                         <div class="row pt-5">
                             <div class="col-md-4 offset-md-4 col-12">
                                 <input type="submit" name="submit" value="Request Brochure" class="btn btn-primary btn-block">
-                                <?php 
-                                    if ($send == 3) {
-                                        echo "<p class = 'brochureSent mt-5 my-5 bg-info text-white text-center rounded mx-auto'><i class='fas fa-check-circle p-1 mx-2' style='color:white; font-size:16px;'></i>Brochure sent to $email.</p>";
-                                    }
-                                ?>
+
                             </div>
                         </div>
+                        <?php 
+                                    if ($send == 3) {
+                                        echo "<p class = 'brochureSent mt-5 py-3 bg-info text-white text-center rounded mx-auto' style='font-size: 24px; box-shadow: 10px 10px 15px grey;'><i class='fas fa-check-circle p-1 mx-2' style='color:white; font-size:24px;'></i>Brochure successfuly sent to $email.</p>";
+                                    }
+                                ?>
                         <!--Grid row-->
                     </form>
 

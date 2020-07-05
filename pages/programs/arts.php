@@ -1,5 +1,5 @@
 <?php
-$title = "LAW";
+$title = "ARTS";
 include ($_SERVER['DOCUMENT_ROOT'] . "/inc/header.php");
 include ($_SERVER['DOCUMENT_ROOT'] . '/db_connection.php');
 
@@ -10,16 +10,27 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/db_connection.php');
         <div class = "container my-5 py-3">
             <div class = "row">
                 <!-- Side-Bar Menu -->
-                <div class = "col-3 pt-5 side-bar-menu">
+                <div class = "col-md-3 col-12 pt-5 side-bar-menu">
                     <nav>
                         <ul>
-                            <a href = "arts_and_humanities.php"><li>Arts &amp; Humanities</li></a>
-                            <a href = "business_administration.php"><li>Business Administration</li></a>
-                            <a href = "computer_science_and_it.php"><li>Computer Science &amp; IT</li></a>
-                            <a href = "engineering_and_science.php"><li>Engineering &amp; Science</li></a>
-                            <a href = "health_sciences.php"><li>Health Sciences</li></a>
-                            <a href = "law.php"><li class = "activeLink">Law</li></a>
-                            <a href = "tourism.php"><li>Tourism</li></a>
+                            <a href="arts.php">
+                                <li class="activeLink">Arts</li>
+                            </a>
+                            <a href="business_administration.php">
+                                <li>Business Administration</li>
+                            </a>
+                            <a href="information_technology.php">
+                                <li>Information Technology</li>
+                            </a>
+                            <a href="engineering.php">
+                                <li>Engineering</li>
+                            </a>
+                            <a href="law.php">
+                                <li>Law</li>
+                            </a>
+                            <a href="sciences.php">
+                                <li>Sciences</li>
+                            </a>
                         </ul>
                     </nav>
                 </div>
@@ -27,13 +38,15 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/db_connection.php');
                 
                 <div class = "col-md-8 mx-md-auto col-12 justify-content text-justify">
                     <!-- Section heading -->
-                    <h2 class="h1-responsive about-section-headers-black">Law</h2>
+                    <h2 class="h1-responsive about-section-headers-black">Arts</h2>
                     <hr class = "my-4">
                     <!-- Section description -->
-                    <p class = "main-text">lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p>
+                    <p class = "main-text">Our art and humanities courses have a wide scope, choice and varies level of study.</p>
+                    <p class = "main-text">Our humanities courses do not only focus on the western culture but rather address all across the global culture.</p>
+                    <p class = "main-text">At some advance levels it can be specialized to a specific culture, that is normally at a postgraduate level.</p>
                     <!-- Section image -->
-                    <img src = "/img/banner1.jpg" style = "height: 150px; width: 100%;" class = "my-3">
-                    <p class = "main-text pb-5">lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p>
+                    <img src = "/img/arts&humanities.jpg" class = "collegeImg my-3">
+                    <p class = "main-text pb-5">A list of our Art and Humanities programs are below.</p>
 
                             <div class="card">
                                 <div class="card-header">
@@ -67,6 +80,8 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/db_connection.php');
                                         <li><a href = "/pages/programs/program_page.php?id=<?php echo $row2['program_id']; ?>"><?php echo $row2['program_name']; ?></a></li>
                                         <?php
                                             }
+                                        } else {
+                                            echo "No programs available";
                                         }
                                         ?>
                                     </ul>
@@ -81,13 +96,12 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/db_connection.php');
                             <a href="" class="btn enquire-button active btn-block">ENQUIRE</a>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>
     </section>
 </body>
 
-<?php 
-    include ($_SERVER['DOCUMENT_ROOT'] . "/inc/footer.php");
+<?php
+include ($_SERVER['DOCUMENT_ROOT'] . "/inc/footer.php");
 ?>

@@ -23,10 +23,6 @@
                     <a class="tw-ic mx-3" href="">
                         <i class="fab fa-twitter white-text"></i>
                     </a>
-                    <!-- Google +-->
-                    <a class="gplus-ic mx-3" href="">
-                        <i class="fab fa-google-plus white-text"></i>
-                    </a>
                     <!--Linkedin -->
                     <a class="li-ic mx-3" href="">
                         <i class="fab fa-linkedin white-text"></i>
@@ -115,7 +111,7 @@
                 <p>
                     <i class="fa fa-envelope mr-3"></i> contact@skylineuni.com</p>
                 <p>
-                    <i class="fa fa-phone mr-3"></i> +973 17581010</p>
+                    <i class="fa fa-phone mr-3"></i> +973 39545754</p>
                 <p>
                     <i class="fa fa-print mr-3"></i> +973 17581166</p>
             </div>

@@ -189,7 +189,7 @@ function onDegreeCopyChange() {
         newDiv.id = "degreeProofWarning";
 
         // Give div some text
-        newDiv.innerHTML = "After submitting, you will be contacted by the administration staff in order to try to help you in obtaining a copy of your degree as it is required by university policy. You can register and start studying but must provide a copy by mid-semester.";
+        newDiv.innerHTML = "After submitting, you will be contacted by the administration staff in order to help in obtaining a copy of your degree as it is required by university policy. You can register and start studying but must provide a copy by mid-semester.";
         newDiv.style.color = "gray";
         newDiv.style.fontStyle = "italic";
         newDiv.style.fontSize = "0.8rem";

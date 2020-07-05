@@ -284,9 +284,7 @@ textarea {
 /*******   Navbar Css   *******/
 
 .dropdown:hover .dropdown-menu {
-    /*
-        This CSS rule is used to change megamenu from clickable to hoverable
-    */
+    /*  This CSS rule is used to change megamenu from clickable to hoverable */
     display: block;
     margin-top: 0;
 }
@@ -314,24 +312,14 @@ textarea {
     transition: color 0.3s;
 }
 
-.nav-item .megamenu-links:hover {
-    color: #fff;
-}
-
-.top-menu-nav-item .megamenu-links {
-    color: #000;
-}
-
 .dropdown-menu {
     background-color: rgb(50, 150, 180);
-    /*#1c7a7a; */
     width: 100%;
 }
 
 .dropdown-menu .megamenu-links {
     padding-left: 0;
     border-bottom: 1px groove rgba(255, 255, 255, 0.3);
-
     -webkit-transition: padding-left 0.3s, color 0.3s;
     -moz-transition: padding-left 0.3s, color 0.3s;
     -o-transition: padding-left 0.3s, color 0.3s;
@@ -344,16 +332,13 @@ textarea {
 
 .dropdown-menu .megamenu-links:hover {
     background-color: rgb(30, 120, 150);
-    ;
     padding-left: 5px;
     color: white;
-
     -webkit-transition: padding-left 0.3s, color 0.3s;
     -moz-transition: padding-left 0.3s, color 0.3s;
     -o-transition: padding-left 0.3s, color 0.3s;
     transition: padding-left 0.3s;
-    ,
-    color 0.3s;
+    color: 0.3s;
 }
 
 .dropdown-menu .megamenu-links:focus {
@@ -442,7 +427,7 @@ textarea {
     border-radius: 0 !important;
     background-image: url("../img/small_jumbotron.jpg");
     background-size: cover;
-    margin-bottom: 0;
+    margin: 0;
 }
 
 .contactus-jumbotron {

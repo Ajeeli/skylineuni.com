@@ -10,23 +10,23 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/db_connection.php');
         <div class = "container my-5 py-3">
             <div class = "row">
                 <!-- Side-Bar Menu -->
-                <div class = "col-3 pt-5 side-bar-menu">
+                <div class = "col-md-3 col-12 pt-5 side-bar-menu">
                     <nav>
-                        <ul>
-                            <a href="arts_and_humanities.php">
-                                <li class="activeLink">Arts</li>
+                    <ul>
+                            <a href="arts.php">
+                                <li>Arts</li>
                             </a>
                             <a href="business_administration.php">
                                 <li>Business Administration</li>
                             </a>
-                            <a href="computer_science_and_it.php">
+                            <a href="information_technology.php">
                                 <li>Information Technology</li>
                             </a>
-                            <a href="engineering_and_science.php">
+                            <a href="engineering.php">
                                 <li>Engineering</li>
                             </a>
                             <a href="law.php">
-                                <li>Law</li>
+                                <li  class="activeLink">Law</li>
                             </a>
                             <a href="sciences.php">
                                 <li>Sciences</li>
