@@ -2,7 +2,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
--Committed Change here
 <head>
 
     <!-- Meta Tags -->
