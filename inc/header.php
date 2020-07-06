@@ -88,11 +88,6 @@
                                     <a class="dropdown-item megamenu-links" href="/pages/programs/degree_levels.php">
                                         <h5 class="mega-menu-text">Degree Levels</h5>
                                     </a>
-
-                                    <a class="dropdown-item megamenu-links" href="/pages/bachelors.php">Bachelors</a>
-                                    <a class="dropdown-item megamenu-links" href="/pages/masters.php">Masters Degrees</a>
-                                    <a class="dropdown-item megamenu-links" href="/pages/phd.php">PhD Degrees</a>
-                                    <a class="dropdown-item megamenu-links" href="/pages/diplomas.php">Diplomas</a>
                                     <a class="dropdown-item megamenu-links" href="/pages/programs/all_programs.php">Bachelors</a>
                                     <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">Masters Degrees</a>
                                     <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">PhD Degrees</a>
@@ -116,8 +111,6 @@
                                     <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">Language Courses</a>
                                 </div>
                             </div>
-
-                            <a class="btn col-2" type="button" style="background: rgb(20,90,120); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
                             <a class="btn col-2" type="button" style="background: rgba(0,1,154,0.5); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
                         </div>
                     </li>
@@ -185,8 +178,7 @@
                                     <a class="dropdown-item megamenu-links" href="/pages/support/international_network_linking.php">International Network Linking</a>
                                 </div>
                             </div>
-                            <a class="btn col-2" type="button" style="background: rgb(20,90,120); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
-                                <a class="btn col-2" type="button" style="background: rgba(0,1,154,0.5); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
+                            <a class="btn col-2" type="button" style="background: rgba(0,1,154,0.5); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
                         </div>
                     </li>
                     <li class="nav-item dropdown megamenu-li">
@@ -228,10 +220,7 @@
                                     <a class="dropdown-item megamenu-links" href="/pages/about/international_recognition.php">International Recognition</a>
                                 </div>
                             </div>
-                            <<<<<<< HEAD <a class="btn col-2" type="button" style=" background: rgb(20,90,120); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
-                                =======
-                                <a class="btn col-2" type="button" style="background: rgba(0,1,154,0.5); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
-                                >>>>>>> dd2c918459fb257b0abc02f2369d8f13c93235c1
+                            <a class="btn col-2" type="button" style="background: rgba(0,1,154,0.5); color:white; border: 1px solid white; position: absolute; bottom:1rem; right: 1rem;" role="button" href="/pages/apply.php"> APPLY </a>
                         </div>
                     </li>
                 </ul>
