@@ -93,11 +93,7 @@
                                     <a class="dropdown-item megamenu-links" href="/pages/masters.php">Masters Degrees</a>
                                     <a class="dropdown-item megamenu-links" href="/pages/phd.php">PhD Degrees</a>
                                     <a class="dropdown-item megamenu-links" href="/pages/diplomas.php">Diplomas</a>
-                                    <a class="dropdown-item megamenu-links" href="/pages/programs/all_programs.php">Bachelors</a>
-                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">Masters Degrees</a>
-                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">PhD Degrees</a>
-                                    <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">Diplomas</a>
-                                </div>
+                                  </div>
                                 <div class="col-sm-6 col-lg-3">
                                     <a class="dropdown-item megamenu-links" href="/pages/comingsoon.html">
                                         <h5 class="mega-menu-text">Certificates</h5>
