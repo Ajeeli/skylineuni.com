@@ -370,7 +370,7 @@ include ("inc/header.php");
                         </div>
                         <?php 
                                     if ($send == 3) {
-                                        echo "<p class = 'brochureSent mt-5 py-3 bg-info text-white text-center rounded mx-auto' style='font-size: 24px; box-shadow: 10px 10px 15px grey;'><i class='fas fa-check-circle p-1 mx-2' style='color:white; font-size:24px;'></i>Brochure successfuly sent to $email.</p>";
+                                        echo "<p class = 'brochureSent col-9 mt-5 py-2 bg-info text-white text-center rounded mx-auto' style='font-size: 18px; box-shadow: 10px 10px 10px grey;'><i class='fas fa-check-circle p-1 mx-2' style='color:white; font-size:18px;'></i>Brochure successfuly sent to $email.</p>";
                                     }
                                 ?>
                         <!--Grid row-->
